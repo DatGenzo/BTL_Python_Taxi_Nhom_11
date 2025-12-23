@@ -18,5 +18,6 @@ Dự án vận dụng Python để làm sạch, tiền xử lý và trực quan 
 2. Chạy file chính: `python main.py`
 
 ## Tài liệu tham khảo
-- Dataset: [Link Kaggle của bạn]
+- Dataset: [https://www.kaggle.com/datasets/microize/nyc-taxi-dataset]
+           [https://www.kaggle.com/c/nyc-taxi-trip-duration]
 - Thư viện: Pandas, Matplotlib, Numpy.
